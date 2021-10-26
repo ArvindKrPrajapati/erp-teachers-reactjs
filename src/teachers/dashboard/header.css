@@ -1,0 +1,22 @@
+
+
+
+
+#nav{
+  background:#eee;
+  color:black;
+  z-index: 999;
+}
+
+ .sidemenu span{
+     color:white;
+   }
+ @media screen and (max-width:768px){
+   #nav{
+     background:#0d6efd;
+     color:white;
+   }
+    .sidemenu span{
+     color:black;
+   }
+ }
